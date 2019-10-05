@@ -138,6 +138,7 @@ public class Trie {
 			
 		
 			displayAll(node.map.get(key), asf);
+			syso
 		}
 	}
 }
